@@ -2,9 +2,8 @@ RENCANA KONTEN WPU
 -Javascript
   *ES 6
   *Framework Javascript
-   ^View
+   ^Veu
 -Struktur Data
 -PHP Framework
  *Ralavel
 -Python
- 
