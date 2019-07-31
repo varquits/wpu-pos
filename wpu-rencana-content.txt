@@ -2,4 +2,5 @@ RENCANA KONTEN WPU
 -Javascript
   *ES 6
   *Framework Javascript
+-Struktur Data
 -PHP Framework
